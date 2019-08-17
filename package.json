@@ -1,0 +1,26 @@
+{
+  "name": "spon-market",
+  "version": "1.0.0",
+  "description": "SPON market indicies",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madnight/spon-market.git"
+  },
+  "author": "Fabian Beuke <mail@beuke.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madnight/spon-market/issues"
+  },
+  "homepage": "https://github.com/madnight/spon-market#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "scrape-it": "^5.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
