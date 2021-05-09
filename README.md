@@ -9,7 +9,7 @@ sponMarket().then(data => console.log(data))
 ```
 
 Example Output
-```
+```js
 [ { symbol: 'DAX',
     value: ' 11.557,40',
     change: ' -12,00',
